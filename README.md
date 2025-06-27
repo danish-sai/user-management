@@ -142,8 +142,8 @@ Authenticates user credentials.
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/user-management-api.git
-cd user-management-api
+https://github.com/danish-sai/user-management.git
+cd user-management
 ```
 
 ### 2. Install Dependencies
